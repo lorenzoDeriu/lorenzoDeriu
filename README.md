@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lorenzo Deriu</h1>
 <h3 align="center">I am a Computer Science Student @ UniPi</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzoderiu&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzoderiu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzoderiu&label=Profile%20views&color=blueviolet&style=flat" alt="lorenzoderiu" /> </p>
 
 - 🌱 I’m currently learning **Data Bases, Computer Networks**
 
