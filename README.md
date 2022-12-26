@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzoderiu&label=Profile%20views&color=blueviolet&style=flat" alt="lorenzoderiu" /> </p>
 
-- 🌱 I’m currently learning **Data Bases, Computer Networks**
+- 🌱 I’m currently learning **Databases and Computer Networks**
 
 - 📫 How to reach me **deriu.lorenzo.00@gmail.com**
 
