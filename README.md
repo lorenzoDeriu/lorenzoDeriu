@@ -22,10 +22,12 @@ In addition to my passion for coding, I have a range of other interests:<br><br>
 ![](https://github-readme-stats.vercel.app/api?username=lorenzoDeriu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lorenzoDeriu&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzoDeriu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
--->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=lorenzoDeriu&icon=0&color=0)](https://visitcount.itsvg.in)
