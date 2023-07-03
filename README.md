@@ -7,7 +7,6 @@ Hello! My name is Lorenzo, I'm a final-year computer science student at Pisa Uni
 ## Interests<br>
 In addition to my passion for coding, I have a range of other interests:<br><br>
 💪 <b>Fitness</b>:I believe in the importance of leading a healthy lifestyle and enjoy various physical activities.<br>
-🏋️‍♂️ <b>Sports</b>: I have a keen interest in different sports and love to follow and participate in them.<br>
 🍎 <b>Wellness</b>: I enjoy exploring topics related to well-being, nutrition, and personal growth.<br>
 📚 <b>Self-improvement</b>: I am constantly seeking opportunities to learn and grow both personally and professionally.<br>
 
