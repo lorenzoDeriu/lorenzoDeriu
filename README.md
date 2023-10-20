@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hello! My name is Lorenzo, I'm a final-year computer science student at Pisa University with a passion for software engineering. I'm excited to embark on new projects and collaborate with like-minded individuals.<br><br>
-🔭 <b>Currently working on</b>: I am currently working on completing my final year of studies while also gaining practical experience as a Software Engineering at Zerynth.<br><br>
+Hello! My name is Lorenzo, I'm excited to embark on new projects and collaborate with like-minded individuals.<br><br>
+🔭 <b>Currently working on</b>: I am currently working at Zerynth, gaining practical experience as a software engineer.<br><br>
 🌱 <b>Currently learning</b>: I am constantly expanding my knowledge and exploring new technologies.<!-- related to backend development. Currently, I am focusing on improving my skills in areas such as API design, database management, and server-side technologies.<br><br>
 💬 <b>Ask me about</b>: Feel free to reach out if you have any questions about software engineering, backend development, or related topics. I'm always happy to share my knowledge and engage in discussions.<br> -->
 <br>
