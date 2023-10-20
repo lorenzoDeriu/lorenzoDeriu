@@ -4,7 +4,7 @@ Hello! My name is Lorenzo, I'm excited to embark on new projects and collaborate
 🌱 <b>Currently learning</b>: I am constantly expanding my knowledge and exploring new technologies.<!-- related to backend development. Currently, I am focusing on improving my skills in areas such as API design, database management, and server-side technologies.<br><br>
 💬 <b>Ask me about</b>: Feel free to reach out if you have any questions about software engineering, backend development, or related topics. I'm always happy to share my knowledge and engage in discussions.<br> -->
 <br>
-## Interests<br>
+## Interests
 In addition to my passion for coding, I have a range of other interests:<br><br>
 💪 <b>Fitness</b>:I believe in the importance of leading a healthy lifestyle and enjoy various physical activities.<br>
 🍎 <b>Wellness</b>: I enjoy exploring topics related to well-being, nutrition, and personal growth.<br>
